@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adesh7766" alt="adesh7766" /></a> </p>
 
-- 🔭 I’m currently working on [Bug Tracker](https://github.com/Adesh7766/Bug-Tracker.git)
+- 🔭 I’m currently working on [Expense Tracker](https://github.com/Adesh7766/ExpenseTracker.git)
 
 - 📫 How to reach me **adesh.pandey1673@gmail.com**
 
